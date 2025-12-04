@@ -29,14 +29,14 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
 
+![WhatsApp Image 2025-12-04 at 11 08 27_21227a87](https://github.com/user-attachments/assets/90364d77-7fe1-4542-a9b3-96f412d6ab28)
 
 
 ---
 
 ## MODEL GRAPH
-<img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/3389b740-b70e-4148-9bf9-e5319627260f" />
+![WhatsApp Image 2025-12-04 at 11 08 43_d56165bc](https://github.com/user-attachments/assets/253bfb88-d6f6-48a4-aedb-a87fb4486dd8)
 
 ## DESIGN
 
@@ -57,16 +57,12 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ---
 ## TABULATION/OBSERVATION
 
+![WhatsApp Image 2025-12-04 at 11 08 57_e86cb1de](https://github.com/user-attachments/assets/5517d87a-3176-4db5-a0ad-054f2136bc69)
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-04 at 11 10 47_03f2929c](https://github.com/user-attachments/assets/dd1b652e-ec86-4b9a-ac1d-55a02d49b2f5)
 
 
 ---
@@ -90,12 +86,11 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-<img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/be71f26e-36ad-4677-8117-51362146cbbd" />
-
+![WhatsApp Image 2025-12-04 at 11 09 24_628f0ea7](https://github.com/user-attachments/assets/e38dc8a4-0ad3-4ff9-bb7c-15f864e5c6a4)
 
 ---
 ## MODEL GRAPH
-<img width="414" height="325" alt="image" src="https://github.com/user-attachments/assets/1cc285f7-05c7-4b65-af59-b28cf039fcd3" />
+![WhatsApp Image 2025-12-04 at 11 09 41_7d97c400](https://github.com/user-attachments/assets/e84937a2-6238-4519-8762-b2afc78c1a12)
 
 ---
 
@@ -123,17 +118,11 @@ Rf = 15K *2=30KΩ
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 ---
 ## TABULATION/OBSERVATION
+![WhatsApp Image 2025-12-04 at 11 10 10_c928e08c](https://github.com/user-attachments/assets/e778bb44-e6df-4eaf-a462-a3f90420e677)
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
----
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-04 at 11 10 22_999f0ec9](https://github.com/user-attachments/assets/034ef607-3501-4c9c-9bef-0225e223bb15)
 
 
 ---
